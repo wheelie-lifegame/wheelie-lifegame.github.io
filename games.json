@@ -3,5 +3,45 @@
         "name": "Wheelie Life",
         "slug": "wheelie-life",
         "image": "/cache/data/image/game/wheelie-life/wheelielifegame-m186x186.webp"
+    },
+    {
+        "name": "Moto X3M",
+        "slug": "moto-x3m",
+        "image": "/cache/data/image/game/moto-x3m/moto-x3m-m186x186.webp"
+    },
+    {
+        "name": "Street Wheelie",
+        "slug": "street-wheelie",
+        "image": "/cache/data/image/game/street-wheelie/street-wheelie-m186x186.webp"
+    },
+    {
+        "name": "Sticky Road",
+        "slug": "sticky-road",
+        "image": "/cache/data/image/game/sticky-road/sticky-road-m186x186.webp"
+    },
+    {
+        "name": "Stickman Bike",
+        "slug": "stickman-bike",
+        "image": "/cache/data/image/game/stickman-bike/stickman-bike-m186x186.webp"
+    },
+    {
+        "name": "Bike Xtreme",
+        "slug": "bike-xtreme",
+        "image": "/cache/data/image/game/bike-xtreme/bike-xtreme-m186x186.webp"
+    },
+    {
+        "name": "Scary Wheels",
+        "slug": "scary-wheels",
+        "image": "/cache/data/image/game/scary-wheels/scary-wheels-m186x186.webp"
+    },
+    {
+        "name": "Escape Drive",
+        "slug": "escape-drive",
+        "image": "/cache/data/image/game/escape-drive/escape-drive-m186x186.webp"
+    },
+    {
+        "name": "Ramp Xtreme",
+        "slug": "ramp-xtreme",
+        "image": "/cache/data/image/game/ramp-xtreme/ramp-xtreme-m186x186.webp"
     }
 ]
